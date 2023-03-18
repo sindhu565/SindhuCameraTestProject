@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Camera2Test.MainPage">
+
+    <StackLayout Spacing="20">
+        <Image x:Name="image" Margin="0,10,0,0" HeightRequest="200" WidthRequest="200" HorizontalOptions="CenterAndExpand" VerticalOptions="Start">
+        </Image>
+        <Button Text="Take Picture" Style="{StaticResource MainpageButtonstyle}" Clicked="TakeButton_Clicked"/>
+        <Button Text="Share Picture" Style="{StaticResource MainpageButtonstyle}" Clicked="SahreButton_Clicked"/>
+        <Button Text="Share Text" Style="{StaticResource MainpageButtonstyle}" Clicked="SahreText_Clicked"/>
+        <Button Text="Toast Message"  Style="{StaticResource MainpageButtonstyle}" Clicked="Toast_Clicked"/>
+        <Button Text="Short Message" Style="{StaticResource MainpageButtonstyle}" Clicked="Short_Clicked"/>
+
+ 
+    </StackLayout>
+
+</ContentPage>
+

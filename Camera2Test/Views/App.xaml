@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Camera2Test.App">
+    <Application.Resources>
+      <Style x:Key="MainpageButtonstyle" TargetType="Button">
+         
+          <Setter Property="WidthRequest" Value="200"/>
+          <Setter Property="HeightRequest" Value="50"/>
+          <Setter Property="HorizontalOptions" Value="CenterAndExpand"/>
+          <Setter Property="VerticalOptions" Value="Start"/>
+          <Setter Property="CornerRadius" Value="8"/>
+          <Setter Property="BackgroundColor" Value="BlueViolet"/>
+          <Setter Property="TextColor" Value="White"/>
+          <Setter Property="BorderColor" Value="White"/>
+          <Setter Property="BorderWidth" Value="3"/>
+
+      </Style>
+    </Application.Resources>
+</Application>

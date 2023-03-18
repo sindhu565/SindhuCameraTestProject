@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670997003992",
+    "project_id": "cameratest-95de0",
+    "storage_bucket": "cameratest-95de0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670997003992:android:4c1bf37e6ebd3ef8c961ad",
+        "android_client_info": {
+          "package_name": "com.companyname.camera2test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670997003992-eord7hhteavd2391o4h7rcpjj983bp1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2BUmFBP44ONNI4zmBOoja9VvUvs7xcVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670997003992-eord7hhteavd2391o4h7rcpjj983bp1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

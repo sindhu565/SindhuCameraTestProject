@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test.Android/Camera2Test.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test.Android/Camera2Test.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test.Android/Camera2Test.Android.csproj",
+        "projectName": "Camera2Test.Android",
+        "projectPath": "/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test.Android/Camera2Test.Android.csproj",
+        "packagesPath": "/Users/saichandrasekharkundanamadugu/.nuget/packages/",
+        "outputPath": "/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/saichandrasekharkundanamadugu/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {
+              "/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/Camera2Test.csproj": {
+                "projectPath": "/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/Camera2Test.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Plugin.FirebasePushNotification": {
+              "target": "Package",
+              "version": "[3.4.35, )"
+            },
+            "Xamarin.AndroidX.Collection": {
+              "target": "Package",
+              "version": "[1.2.0.6, )"
+            },
+            "Xamarin.Build.Download": {
+              "target": "Package",
+              "version": "[0.11.4, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            },
+            "Xamarin.Firebase.Messaging": {
+              "target": "Package",
+              "version": "[123.0.8, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2578, )"
+            },
+            "Xamarin.GooglePlayServices.Base": {
+              "target": "Package",
+              "version": "[117.6.0.3, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/Camera2Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/Camera2Test.csproj",
+        "projectName": "Camera2Test",
+        "projectPath": "/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/Camera2Test.csproj",
+        "packagesPath": "/Users/saichandrasekharkundanamadugu/.nuget/packages/",
+        "outputPath": "/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/saichandrasekharkundanamadugu/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Plugin.FirebasePushNotification": {
+              "target": "Package",
+              "version": "[3.4.35, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2578, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/saichandrasekharkundanamadugu/Library/Caches/VisualStudio/17.0/MSBuild/48915_3/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

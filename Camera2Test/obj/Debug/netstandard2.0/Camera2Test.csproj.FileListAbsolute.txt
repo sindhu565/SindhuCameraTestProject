@@ -1,0 +1,16 @@
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/bin/Debug/netstandard2.0/Camera2Test.deps.json
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/bin/Debug/netstandard2.0/Camera2Test.dll
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/bin/Debug/netstandard2.0/ref/Camera2Test.dll
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/bin/Debug/netstandard2.0/Camera2Test.pdb
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/obj/Debug/netstandard2.0/Views/App.xaml.g.cs
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/obj/Debug/netstandard2.0/Views/CameraPage.xaml.g.cs
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/obj/Debug/netstandard2.0/Camera2Test.AssemblyInfoInputs.cache
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/obj/Debug/netstandard2.0/Camera2Test.AssemblyInfo.cs
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/obj/Debug/netstandard2.0/Camera2Test.csproj.CoreCompileInputs.cache
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/obj/Debug/netstandard2.0/UserSecretsAssemblyInfo.cs
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/obj/Debug/netstandard2.0/Camera2Test.dll
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/obj/Debug/netstandard2.0/ref/Camera2Test.dll
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/obj/Debug/netstandard2.0/Camera2Test.pdb
+/Users/saichandrasekharkundanamadugu/Desktop/sindhu/Camera2Test/Camera2Test/Camera2Test/obj/Debug/netstandard2.0/Camera2Test.csproj.AssemblyReference.cache
